@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ad632c1-2b4c-4a84-af66-2e37ce32a550" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/resources/color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/resources/loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/resources/speed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/databaseH2/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/databaseH2/DbHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/databaseH2/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/GameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/SpeedFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/States.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SnakeClone/src/game/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2rAdWNw2xFUOksb8dPuLmOa2a99" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.Server.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="ChatApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="ChatApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ad632c1-2b4c-4a84-af66-2e37ce32a550" name="Changes" comment="" />
+      <created>1736005844686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736005844686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
